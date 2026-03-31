@@ -1,0 +1,8 @@
+{
+  "name": "moment-energy",
+  "version": "1.0.0",
+  "scripts": {
+    "install:server": "cd api-server && npm install",
+    "start": "node api-server/src/index.js"
+  }
+}
