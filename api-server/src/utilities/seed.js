@@ -1,4 +1,4 @@
-const VoltageMeasurement = require('./models/VoltageMeasurement');
+const VoltageMeasurement = require('../models/VoltageMeasurement');
 
 async function seedVoltageData() {
   const STEP_SECONDS = 10;
