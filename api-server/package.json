@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "seed:voltage": "node scripts/seedVoltage.js"
+    "seed:voltage": "node src/scripts/seedVoltage.js"
   },
   "dependencies": {
     "dotenv": "^17.3.1",
